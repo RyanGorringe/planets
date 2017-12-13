@@ -1,0 +1,6 @@
+#Ignore these files
+
+*.dat
+results/
+
+#Exclude a file:   !b.dat
